@@ -21,3 +21,22 @@ After opening the project, right-click the Application file and choose Run.
 
 - Authentication will redirect you to the listing page, where you can see all contestants and their information: http://localhost:8080/musiverso/user/list .
 
+## Application design
+
+### The design was made with JSP and CSS 
+
+- Here's a sample of how the website looks. The index page:
+
+![Screen Shot 2021-12-11 at 18 37 20](https://user-images.githubusercontent.com/69804490/145692432-c964238f-566a-45ec-a304-d8236c7bf7cf.png)
+
+- The registration page:
+
+![Screen Shot 2021-12-11 at 18 34 44](https://user-images.githubusercontent.com/69804490/145692360-88506074-16e6-4021-8688-3ee7a35cc056.png)
+
+- The login page:
+
+![Screen Shot 2021-12-11 at 18 36 08](https://user-images.githubusercontent.com/69804490/145692383-34fff3af-6d28-4c9e-86c0-c1a547ccd0ec.png)
+
+
+
+

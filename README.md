@@ -38,5 +38,12 @@ After opening the project, right-click the Application file and choose Run.
 ![Screen Shot 2021-12-11 at 18 36 08](https://user-images.githubusercontent.com/69804490/145692383-34fff3af-6d28-4c9e-86c0-c1a547ccd0ec.png)
 
 
+## Contributing
 
+1. Fork it
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -m 'Add some feature')
+4. Run the linter (ruby lint.rb').
+5. Push your branch (git push origin my-new-feature)
+6. Create a new Pull Request
 

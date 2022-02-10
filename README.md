@@ -3,8 +3,8 @@
 ## Installation
 
 Clone this repository
-```bash
-git clone git@github.com:wolox/<reponame>.git
+```
+git clone https://github.com/kaiohenricunha/musiverso.git
 ```
 
 After opening the project, right-click the Application file and choose Run.
